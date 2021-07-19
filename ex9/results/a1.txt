@@ -1,0 +1,83 @@
+100 iterations
+
+init:
+# tables with dish k:
+[682, 68, 21, 21, 4]
+
+# customers eating dish k:
+[47787, 7774, 1547, 786, 16]
+
+dishes with # customers != 0:
+ [0, 1, 2, 3, 4]
+ 
+end:
+# tables with dish k:
+[54, 0, 121, 1, 126]
+
+# customers eating dish k:
+ [1828, 0, 28765, 142, 27174]
+ 
+dishes with # customers != 0:
+[0, 2, 3, 4]
+
+topics:
+[['function',
+  'model',
+  'algorithm',
+  'reward',
+  'time',
+  'topic',
+  'set',
+  'learning',
+  'inequality',
+  'task',
+  'space',
+  'node',
+  'word',
+  'variable',
+  'distribution'],
+ ['function',
+  'algorithm',
+  'model',
+  'time',
+  'learning',
+  'method',
+  'set',
+  'distribution',
+  'problem',
+  'value',
+  'data',
+  'feature',
+  'topic',
+  'number',
+  'reward'],
+ ['board',
+  'iteration',
+  'large',
+  'cbmpi',
+  'value',
+  'conjecture',
+  'game',
+  'dpi',
+  'empirical',
+  'mpi',
+  'adp',
+  'feature',
+  'performance',
+  'policy',
+  'action'],
+ ['function',
+  'algorithm',
+  'model',
+  'time',
+  'learning',
+  'method',
+  'set',
+  'topic',
+  'feature',
+  'problem',
+  'distribution',
+  'number',
+  'value',
+  'reward',
+  'data']]
